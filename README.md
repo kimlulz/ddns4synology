@@ -29,8 +29,5 @@ DSM 접속 -> 외부 액세스 -> DDNS -> 추가 에 Gandi LiveDNS 항목이 표
 1. 사용자 이름 (상관없다고는 하는데 DNS 사이트 아이디로..)    
 1. 발급한 API key (패스워드/키 항목에 넣어주세요)    
 
-## License
-
-This work is published under [public domain](https://creativecommons.org/licenses/publicdomain/) license.
 
 [1]: https://api.gandi.net/docs/livedns/
