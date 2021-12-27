@@ -3,7 +3,8 @@ Source - https://github.com/kofemann/livedns4synology
 # 시놀로지에서 Gandi LiveDNS 사용하기
 [LiveDNS RESTful API][1] 기반.
 이 프로젝트는 시놀로지 NAS에서 [Gandi.net](https://www.gandi.net/en) 도메인을 통한 동적 DNS(DDNS)기능을 제공하기 위해 시작되었습니다.
-* 헤놀로지에서도 정상작동    
+* 인증서 사용 가능    
+* 헤놀로지에서도 정상작동     
 
 ![화면 캡처 2021-12-27 134012](https://user-images.githubusercontent.com/42508318/147435142-2f7e7b58-a395-4653-a35e-1549028b6271.png)
 
