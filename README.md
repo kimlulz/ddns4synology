@@ -1,0 +1,1 @@
+# gandidns4synology
